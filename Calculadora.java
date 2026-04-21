@@ -12,7 +12,12 @@ class Calculatora {
     }
 
     int div(int a, int b) {
-        return 0;
+
+        if (b == 0)
+            return 0;
+        else
+            return a / b;
+
     }
 
     int mod(int a, int b) {
