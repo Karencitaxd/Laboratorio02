@@ -21,7 +21,7 @@ class Calculatora {
     }
 
     int mod(int a, int b) {
-        return 0;
+        return a % b;
     }
 
     public static void main(String[] args) {
