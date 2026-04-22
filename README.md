@@ -2,13 +2,13 @@
 
 # integrantes
 
-# 1- Raul Wilfredo condori IDme
+# 1- Condori Idme Raul Wilfredo
 
-# 2-karen
+# 2-Alvarez Molina, Karen Alexandra
 
-# 3-
+# 3-Ramos Rodrigo Diana Rocio 
 
-# 4-
+# 4-Hallasi Cusi Misael Santiago
 
 #
 
