@@ -1,23 +1,25 @@
 class Calculatora {
     int add(int a, int b) {
+        //Suma dos números enteros
         return a + b;
     }
 
     int sub(int a, int b) {
+        //Resta dos números enteros
         return a - b;
     }
 
     int mul(int a, int b) {
+        //Multiplica dos números enteros
         return a * b;
     }
 
     int div(int a, int b) {
-
+        //Divide dos números enteros
         if (b == 0)
             throw new ArithmeticException("No se puede dividir por cero");
         else
             return a / b;
-
     }
 
     int mod(int a, int b) {
